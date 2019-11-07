@@ -1,0 +1,12 @@
+/node_modules
+/vendor
+.env
+npm-debug.log
+yarn-error.log
+.idea
+.vscode
+npm-debug.log
+.DS_Store
+.sass-cache
+*.map
+package-lock.json
